@@ -1,0 +1,12 @@
+{
+  "name": "LunaGPT",
+  "short_name": "LunaGPT",
+  "description": "Your Luna, your conversations.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1814",
+  "theme_color": "#1a1814",
+  "icons": [{"src":"assets/logo.png","sizes":"1024x1024","type":"image/png","purpose":"any"}]
+}

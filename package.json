@@ -1,0 +1,1 @@
+{"name":"lunagpt-web","private":true,"type":"module","scripts":{"test":"node --test tests/core.test.js","start":"python serve.py"}}
